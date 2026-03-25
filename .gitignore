@@ -488,3 +488,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+# louis
+Projetcpp.sln
+Projetcpp/Projetcpp/Projetcpp.vcxproj
+Projetcpp/Projetcpp/Projetcpp.vcxproj.filters
